@@ -87,3 +87,4 @@ store = ["Thanks","Please","happy","gone","run"]
 wor=random.choice(store)
 hangman(nam,wor)
 Hello namrata this is dorabau
+hello namrata i am neetu kuamri
